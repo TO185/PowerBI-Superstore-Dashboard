@@ -16,7 +16,7 @@ Interactive Power BI dashboard analyzing Superstore sales data (9,694 transactio
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](superstore.png)
+![Dashboard Screenshot](superstores.jpeg)
 
 ## 🔍 Dashboard Features
 

@@ -16,7 +16,7 @@ Interactive Power BI dashboard analyzing Superstore sales data (9,694 transactio
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](superstore.jpeg)
+![Dashboard Screenshot](superstore.png)
 
 ## 🔍 Dashboard Features
 
@@ -27,7 +27,6 @@ Interactive Power BI dashboard analyzing Superstore sales data (9,694 transactio
 | Monthly Trend Line | November-December sales spike 35-50% |
 | Discount Impact | 20%+ discounts = $100 loss per order |
 | Top Customers | Tamara Chand: $8,964 profit |
-| State Map | Profit distribution by region |
 
 ## 💡 Business Recommendations
 
